@@ -1,0 +1,20 @@
+h1{
+    color:chocolate;
+    background-color:cyan;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.social{
+    display: flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+}
